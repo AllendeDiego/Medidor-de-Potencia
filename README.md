@@ -17,7 +17,7 @@ Finalmente, se presentan las conclusiones en base al trabajo experimental, desde
 
 <table>
   <tr>
-    <td><img src='hhttps://github.com/AllendeDiego/Medidor-de-Potencia/blob/main/images/imagen_2021-04-23_171451.png'></td>
+    <td><img src='https://github.com/AllendeDiego/Medidor-de-Potencia/blob/main/images/imagen_2021-04-23_171451.png'></td>
   </tr>
 </table>
 
