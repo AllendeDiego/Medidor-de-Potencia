@@ -1,0 +1,87 @@
+Protel Design System Design Rule Check
+PCB File : D:\Users\Diego\Documents\Universidad\MEMORIA\Diseño_ENRUTADOv2\PCB_Project\Esquematico.PcbDoc
+Date     : 19/11/2020
+Time     : 0:35:33
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Yes) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=1mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=4mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.045mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.08mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room Neutro Voltaje (Bounding Region = (153.289mm, 110.236mm, 186.055mm, 122.428mm) (Disabled)(InComponentClass('Neutro Voltaje'))
+Rule Violations :0
+
+Processing Rule : Room MicroUSB (Bounding Region = (103.925mm, 58.5mm, 121.85mm, 71.073mm) (Disabled)(InComponentClass('MicroUSB'))
+Rule Violations :0
+
+Processing Rule : Room Filtro_VC (Bounding Region = (147.066mm, 93.599mm, 186.055mm, 108.458mm) (Disabled)(InComponentClass('Filtro_VC'))
+Rule Violations :0
+
+Processing Rule : Room PMIC (Bounding Region = (126.6mm, 48.025mm, 153.251mm, 125.975mm) (Disabled)(InComponentClass('PMIC'))
+Rule Violations :0
+
+Processing Rule : Room SPI (Bounding Region = (107.95mm, 13.115mm, 120.128mm, 43.846mm) (Disabled)(InComponentClass('SPI'))
+Rule Violations :0
+
+Processing Rule : Room SD-CARD (Bounding Region = (104.15mm, 73.275mm, 123.4mm, 122.275mm) (Disabled)(InComponentClass('SD-CARD'))
+Rule Violations :0
+
+Processing Rule : Room Filtro_VB (Bounding Region = (146.939mm, 78.74mm, 185.928mm, 92.837mm) (Disabled)(InComponentClass('Filtro_VB'))
+Rule Violations :0
+
+Processing Rule : Room ENTRADA CORRIENTE A (Bounding Region = (145.835mm, 30.4mm, 161.075mm, 48.434mm) (Disabled)(InComponentClass('ENTRADA CORRIENTE A'))
+Rule Violations :0
+
+Processing Rule : Room ENTRADA CORRIENTE B (Bounding Region = (161.372mm, 30.375mm, 175.85mm, 48.409mm) (Disabled)(InComponentClass('ENTRADA CORRIENTE B'))
+Rule Violations :0
+
+Processing Rule : Room ENTRADA CORRIENTE C (Bounding Region = (176.077mm, 30.375mm, 191.825mm, 48.409mm) (Disabled)(InComponentClass('ENTRADA CORRIENTE C'))
+Rule Violations :0
+
+Processing Rule : Room Esquematico1 (Bounding Region = (145.196mm, 10.675mm, 206.813mm, 29.17mm) (Disabled)(InComponentClass('Esquematico1'))
+Rule Violations :0
+
+Processing Rule : Room ENTRADA CORRIENTE N (Bounding Region = (192.288mm, 30.398mm, 209.052mm, 48.456mm) (Disabled)(InComponentClass('ENTRADA CORRIENTE N'))
+Rule Violations :0
+
+Processing Rule : Room Filtro_VA (Bounding Region = (147.066mm, 63.373mm, 185.801mm, 77.343mm) (Disabled)(InComponentClass('Filtro_VA'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:02
